@@ -1,0 +1,25 @@
+# Claude Code runtime
+.DS_Store
+*.pyc
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.env
+.env.local
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime/cache
+*.log
+.cache/
+tmp/
+temp/
+
+# Obsidian
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/community-plugins/
