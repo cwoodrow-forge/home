@@ -1,0 +1,15 @@
+# Obsidian workspace/UI state (device-specific, changes constantly)
+.obsidian/
+
+# macOS/iCloud junk
+.DS_Store
+**/.DS_Store
+.icloud
+*.icloud
+
+# Claude runtime data (session logs, local settings)
+.claudian/
+.claude/settings.local.json
+
+# Obsidian trash
+.trash/
