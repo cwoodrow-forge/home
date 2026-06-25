@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/Carl/Git-Repositories/project-octopus branch --show-current)",
+      "Bash(git -C /Users/Carl/Git-Repositories/project-octopus branch -a)",
+      "Bash(git -C /Users/Carl/Git-Repositories/project-octopus rev-parse --abbrev-ref HEAD)",
+      "Bash(git -C /Users/Carl/Git-Repositories/project-octopus checkout -b single-package-feature)",
+      "Bash(python pipeline.py --dry-run)",
+      "Bash(python3 pipeline.py --dry-run)"
+    ]
+  }
+}

@@ -1,15 +1,35 @@
-# Obsidian workspace/UI state (device-specific, changes constantly)
-.obsidian/
-
-# macOS/iCloud junk
+# Obsidian vault-specific files (device-dependent)
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile 2.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/app.json
+.obsidian/app 2.json
+.obsidian/plugins/*/
+.obsidian/cache/
+.obsidian/*.cache
 .DS_Store
-**/.DS_Store
-.icloud
-*.icloud
 
-# Claude runtime data (session logs, local settings)
-.claudian/
-.claude/settings.local.json
+# macOS
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
 
-# Obsidian trash
-.trash/
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
