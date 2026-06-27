@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782471238244-jdul83ilw",
+  "providerId": "claude",
+  "title": "Process three recipe inbox files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782471238246,
+  "updatedAt": 1782471304195,
+  "lastResponseAt": 1782471304195,
+  "sessionId": "c2de1a8f-88ef-401e-8b9e-8b40aead002f",
+  "providerState": {
+    "providerSessionId": "c2de1a8f-88ef-401e-8b9e-8b40aead002f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 7,
+    "cacheCreationInputTokens": 131,
+    "cacheReadInputTokens": 31933,
+    "contextWindow": 200000,
+    "contextTokens": 32071,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

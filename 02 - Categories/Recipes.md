@@ -27,6 +27,9 @@ views:
       - type
       - created
     sort:
+      - property: type
+        direction: ASC
       - property: file.name
         direction: ASC
+
 ```

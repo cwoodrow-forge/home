@@ -35,6 +35,8 @@ created: 2026-06-22
 | Recipe | Protein | Healthy |
 |---|---|---|
 | [[Biker Breakfast Muffins]] | pork | ✗ bread |
+| [[Corned Beef Hash]] | beef | ✗ processed meat |
+| [[Spicy Sweetcorn Soup]] | pork | ✓ |
 
 ---
 
@@ -44,6 +46,7 @@ created: 2026-06-22
 |---|---|
 | [[Masala Omelette]] | ✓ |
 | [[Menemen Turkish Eggs]] | ✓ |
+| [[Pea, Lettuce and Asparagus Soup]] | ✗ cream |
 
 ---
 

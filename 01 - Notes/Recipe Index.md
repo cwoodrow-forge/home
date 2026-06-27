@@ -72,6 +72,8 @@ Quick-reference MOC for all recipes. For AI tasks: read this note first — it r
 | [[Warm Bread Salad of Crispy Pancetta, Parmesan and Poached Egg]]           | pork    | 20 min  | ✗ bread            |
 | [[Slow Roasted Duck with Sage, Ginger and Rhubarb]]                         | duck    | 180 min | ✗ fatty, long cook |
 | [[Biker Breakfast Muffins]]                                                 | pork    | 20 min  | ✗ bread            |
+| [[Corned Beef Hash]]                                                        | beef    | 15 min  | ✗ processed meat   |
+| [[Spicy Sweetcorn Soup]]                                                    | pork    | 15 min  | ✓                  |
 
 ---
 
@@ -89,6 +91,7 @@ Quick-reference MOC for all recipes. For AI tasks: read this note first — it r
 | [[Menemen Turkish Eggs]] | vegetarian | 25 min | ✓ |
 | [[Udon Noodle Salad]] | vegetarian | 10 min | ✓ |
 | [[Watermelon and Feta Mint Salad]] | vegetarian | 5 min | ✓ |
+| [[Pea, Lettuce and Asparagus Soup]] | vegetarian | 10 min | ✗ cream |
 
 ---
 
