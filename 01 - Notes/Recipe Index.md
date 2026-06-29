@@ -60,6 +60,7 @@ Quick-reference MOC for all recipes. For AI tasks: read this note first — it r
 | [[Jerk Chicken, dirty rice and corn]]                                       | chicken | 30 min  | ✗ rice dish        |
 | [[Old Man's Superb Chicken]]                                                | chicken | 50 min  | ✗ pastry & cream   |
 | [[Pot-roasted Chicken with sweet and sour sauce]]                           | chicken | 100 min | ✓                  |
+| [[Watermelon and chicken salad]]                                            | chicken | 35 min  | ✓                  |
 | [[Pan-roasted Guinea Fowl with Pomegranates and Spinach]]                   | poultry | 40 min  | ✓                  |
 | [[Tray-baked Lamb with Aubergines, Tomatoes, Olives, Garlic and Mint Oil.]] | lamb    | 45 min  | ✓                  |
 | [[Japanese Rolled Pork with Plums, Coriander, Soy Sauce and Spring Onions]] | pork    | 45 min  | ✓                  |

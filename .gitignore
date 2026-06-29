@@ -11,6 +11,9 @@
 .obsidian/*.cache
 .DS_Store
 
+# Claudian specific files
+.claudian/claudian-settings.json
+
 # macOS
 .AppleDouble
 .LSOverride

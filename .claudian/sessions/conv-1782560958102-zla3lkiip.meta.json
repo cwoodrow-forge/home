@@ -1,0 +1,27 @@
+{
+  "id": "conv-1782560958102-zla3lkiip",
+  "providerId": "claude",
+  "title": "Execute SQL-dbt Day-One Setup",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782560958102,
+  "updatedAt": 1782561267978,
+  "lastResponseAt": 1782561267978,
+  "sessionId": "bcdc2360-73ba-438d-98b9-5ce6b9dc6f0d",
+  "providerState": {
+    "providerSessionId": "bcdc2360-73ba-438d-98b9-5ce6b9dc6f0d"
+  },
+  "currentNote": "01 - Notes/SQL-dbt-Reskilling-Campaign-Brief.md",
+  "externalContextPaths": [
+    "/Users/Carl/Library/Mobile Documents/iCloud~md~obsidian/Documents"
+  ],
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 88,
+    "cacheReadInputTokens": 58644,
+    "contextWindow": 1000000,
+    "contextTokens": 58734,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

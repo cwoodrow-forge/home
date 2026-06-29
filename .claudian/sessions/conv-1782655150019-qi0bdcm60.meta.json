@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782655150019-qi0bdcm60",
+  "providerId": "claude",
+  "title": "Review SQL-dbt campaign next steps",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782655150020,
+  "updatedAt": 1782665572204,
+  "lastResponseAt": 1782665572204,
+  "sessionId": "6b9a34f8-c6f5-461d-ab22-6bd5340cc919",
+  "providerState": {
+    "providerSessionId": "6b9a34f8-c6f5-461d-ab22-6bd5340cc919"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 608,
+    "cacheReadInputTokens": 62979,
+    "contextWindow": 1000000,
+    "contextTokens": 63589,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}
